@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698190726334",
+    "project_id": "acadamic-project",
+    "storage_bucket": "acadamic-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698190726334:android:5f029ab0b5a5518a16caef",
+        "android_client_info": {
+          "package_name": "com.flutter_academic_project_spectrum.flutter_academic_project_spectrum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsrzFy15n0y5MU9xXnr1Q6kOvc1dH0NPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
